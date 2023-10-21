@@ -1,0 +1,9 @@
+/venv/
+/inspiration/
+**/data/
+
+tidy-tuesday.Rproj
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
