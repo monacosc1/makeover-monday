@@ -1,6 +1,7 @@
-# MakeoverMonday: Retail Investing
+# MakeoverMonday: Street Level Temperatures
 
-![](https://github.com/monacosc1/makeover-monday/blob/master/2023/W40/output/scary_dreams_over_time.png)
+![](https://github.com/monacosc1/makeover-monday/blob/master/2023/W39/output/yearly_changes.png)
 
-![](https://github.com/monacosc1/makeover-monday/blob/master/2023/W40/output/geo_map_scary_dreams.png)
+![](https://github.com/monacosc1/makeover-monday/blob/master/2023/W39/output/hourly_changes.png)
 
+![](https://github.com/monacosc1/makeover-monday/blob/master/2023/W39/output/comparison_avg_temperatures.png)
