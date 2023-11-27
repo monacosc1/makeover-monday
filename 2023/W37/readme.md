@@ -1,7 +1,7 @@
-# MakeoverMonday: Monthly Evictions
+# MakeoverMonday: Average UK House Price for First Time Buyers 
 
-![](https://github.com/monacosc1/makeover-monday/blob/master/2023/W38/output/avg_filings_by_city.png)
+![](https://github.com/monacosc1/makeover-monday/blob/master/2023/W37/output/ltv_multiple_analysis.png)
 
-![](https://github.com/monacosc1/makeover-monday/blob/master/2023/W38/output/avg_filings_by_racial_majority.png)
+![](https://github.com/monacosc1/makeover-monday/blob/master/2023/W37/output/trend_analysis.png)
 
-![](https://github.com/monacosc1/makeover-monday/blob/master/2023/W38/output/seasonality.png)
+![](https://github.com/monacosc1/makeover-monday/blob/master/2023/W37/output/correlation_analysis.png)
